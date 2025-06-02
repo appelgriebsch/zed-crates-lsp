@@ -1,6 +1,6 @@
 id = "crates-lsp"
 name = "Crates LSP"
-version = "0.1.1"
+version = "0.2.0"
 schema_version = 1
 authors = ["Appelgriebsch <info@appelgriebsch.com>"]
 description = "Language Server implementation targeted specifically towards the Cargo.toml file of Rust projects, providing auto-completion for crate versions and in-editor hints when the selected crate versions are out of date."
